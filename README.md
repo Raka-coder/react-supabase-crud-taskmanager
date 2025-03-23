@@ -17,9 +17,6 @@ This project is a simple task manager application built using Vite, React, Tailw
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 - **Supabase**: An open-source Firebase alternative that provides a real-time database and authentication.
 
-<img src="https://vitejs.dev/logo.svg" alt="Vite" width="32" height="32"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="32" height="32" /><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="Tailwind CSS" width="32" height="32" />
-<img src="https://supabase.com/_next/image?url=https%3A%2F%2Ffrontend-assets.supabase.com%2Fwww%2Fc1330d35c0f0%2F_next%2Fstatic%2Fmedia%2Flogo-preview.50e72501.jpg&w=1920&q=75&dpl=dpl_GEJN8CJmvmpVUbbAsboBotajE3HV" alt="Supabase" width="128" height="64" />
-
 ## Getting Started
 
 ### Prerequisites
