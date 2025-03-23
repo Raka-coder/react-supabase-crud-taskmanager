@@ -12,6 +12,13 @@ This project is a simple task manager application built using Vite, React, Tailw
 
 ## Tech Stack
 
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="48" height="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="48" height="36"/>         
+</div><br>
+
 - **Vite**: A build tool that provides a faster and leaner development experience for modern web projects.
 - **React**: A JavaScript library for building user interfaces.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
@@ -54,6 +61,9 @@ This project is a simple task manager application built using Vite, React, Tailw
        created_at timestamp default now()
      );
      ```
+
+   - Add `RLS` (Row Level Security) policy.
+   - Disable `RLS` (Row Level Security) for the table.
 
 4. Configure environment variables:
    - Create a `.env` file in the root of your project and add your Supabase credentials:
